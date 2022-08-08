@@ -1,0 +1,15 @@
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Conditional-switch/bin/Debug/net6.0/ConditionalOps
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Conditional-switch/bin/Debug/net6.0/ConditionalOps.deps.json
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Conditional-switch/bin/Debug/net6.0/ConditionalOps.runtimeconfig.json
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Conditional-switch/bin/Debug/net6.0/ConditionalOps.dll
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Conditional-switch/bin/Debug/net6.0/ConditionalOps.pdb
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Conditional-switch/obj/Debug/net6.0/ConditionalOps.csproj.AssemblyReference.cache
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Conditional-switch/obj/Debug/net6.0/ConditionalOps.GeneratedMSBuildEditorConfig.editorconfig
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Conditional-switch/obj/Debug/net6.0/ConditionalOps.AssemblyInfoInputs.cache
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Conditional-switch/obj/Debug/net6.0/ConditionalOps.AssemblyInfo.cs
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Conditional-switch/obj/Debug/net6.0/ConditionalOps.csproj.CoreCompileInputs.cache
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Conditional-switch/obj/Debug/net6.0/ConditionalOps.dll
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Conditional-switch/obj/Debug/net6.0/refint/ConditionalOps.dll
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Conditional-switch/obj/Debug/net6.0/ConditionalOps.pdb
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Conditional-switch/obj/Debug/net6.0/ConditionalOps.genruntimeconfig.cache
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Conditional-switch/obj/Debug/net6.0/ref/ConditionalOps.dll
