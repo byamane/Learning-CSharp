@@ -1,0 +1,15 @@
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/VarsAndData/bin/Debug/net6.0/VarsAndData
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/VarsAndData/bin/Debug/net6.0/VarsAndData.deps.json
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/VarsAndData/bin/Debug/net6.0/VarsAndData.runtimeconfig.json
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/VarsAndData/bin/Debug/net6.0/VarsAndData.dll
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/VarsAndData/bin/Debug/net6.0/VarsAndData.pdb
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/VarsAndData/obj/Debug/net6.0/VarsAndData.csproj.AssemblyReference.cache
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/VarsAndData/obj/Debug/net6.0/VarsAndData.GeneratedMSBuildEditorConfig.editorconfig
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/VarsAndData/obj/Debug/net6.0/VarsAndData.AssemblyInfoInputs.cache
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/VarsAndData/obj/Debug/net6.0/VarsAndData.AssemblyInfo.cs
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/VarsAndData/obj/Debug/net6.0/VarsAndData.csproj.CoreCompileInputs.cache
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/VarsAndData/obj/Debug/net6.0/VarsAndData.dll
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/VarsAndData/obj/Debug/net6.0/refint/VarsAndData.dll
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/VarsAndData/obj/Debug/net6.0/VarsAndData.pdb
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/VarsAndData/obj/Debug/net6.0/VarsAndData.genruntimeconfig.cache
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/VarsAndData/obj/Debug/net6.0/ref/VarsAndData.dll
