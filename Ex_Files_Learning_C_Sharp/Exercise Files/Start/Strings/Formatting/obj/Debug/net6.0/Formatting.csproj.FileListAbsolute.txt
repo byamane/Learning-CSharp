@@ -1,0 +1,15 @@
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/Formatting/bin/Debug/net6.0/Formatting
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/Formatting/bin/Debug/net6.0/Formatting.deps.json
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/Formatting/bin/Debug/net6.0/Formatting.runtimeconfig.json
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/Formatting/bin/Debug/net6.0/Formatting.dll
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/Formatting/bin/Debug/net6.0/Formatting.pdb
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/Formatting/obj/Debug/net6.0/Formatting.csproj.AssemblyReference.cache
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/Formatting/obj/Debug/net6.0/Formatting.GeneratedMSBuildEditorConfig.editorconfig
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/Formatting/obj/Debug/net6.0/Formatting.AssemblyInfoInputs.cache
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/Formatting/obj/Debug/net6.0/Formatting.AssemblyInfo.cs
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/Formatting/obj/Debug/net6.0/Formatting.csproj.CoreCompileInputs.cache
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/Formatting/obj/Debug/net6.0/Formatting.dll
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/Formatting/obj/Debug/net6.0/refint/Formatting.dll
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/Formatting/obj/Debug/net6.0/Formatting.pdb
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/Formatting/obj/Debug/net6.0/Formatting.genruntimeconfig.cache
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/Formatting/obj/Debug/net6.0/ref/Formatting.dll
