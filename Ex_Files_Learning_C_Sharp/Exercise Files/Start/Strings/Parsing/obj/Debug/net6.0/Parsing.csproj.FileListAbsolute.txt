@@ -1,0 +1,15 @@
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/Parsing/bin/Debug/net6.0/Parsing
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/Parsing/bin/Debug/net6.0/Parsing.deps.json
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/Parsing/bin/Debug/net6.0/Parsing.runtimeconfig.json
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/Parsing/bin/Debug/net6.0/Parsing.dll
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/Parsing/bin/Debug/net6.0/Parsing.pdb
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/Parsing/obj/Debug/net6.0/Parsing.csproj.AssemblyReference.cache
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/Parsing/obj/Debug/net6.0/Parsing.GeneratedMSBuildEditorConfig.editorconfig
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/Parsing/obj/Debug/net6.0/Parsing.AssemblyInfoInputs.cache
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/Parsing/obj/Debug/net6.0/Parsing.AssemblyInfo.cs
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/Parsing/obj/Debug/net6.0/Parsing.csproj.CoreCompileInputs.cache
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/Parsing/obj/Debug/net6.0/Parsing.dll
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/Parsing/obj/Debug/net6.0/refint/Parsing.dll
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/Parsing/obj/Debug/net6.0/Parsing.pdb
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/Parsing/obj/Debug/net6.0/Parsing.genruntimeconfig.cache
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/Parsing/obj/Debug/net6.0/ref/Parsing.dll
