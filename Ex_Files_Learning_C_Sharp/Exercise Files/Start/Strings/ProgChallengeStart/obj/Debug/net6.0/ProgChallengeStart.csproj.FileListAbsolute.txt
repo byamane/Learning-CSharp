@@ -1,0 +1,15 @@
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/ProgChallengeStart/bin/Debug/net6.0/ProgChallengeStart
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/ProgChallengeStart/bin/Debug/net6.0/ProgChallengeStart.deps.json
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/ProgChallengeStart/bin/Debug/net6.0/ProgChallengeStart.runtimeconfig.json
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/ProgChallengeStart/bin/Debug/net6.0/ProgChallengeStart.dll
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/ProgChallengeStart/bin/Debug/net6.0/ProgChallengeStart.pdb
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/ProgChallengeStart/obj/Debug/net6.0/ProgChallengeStart.csproj.AssemblyReference.cache
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/ProgChallengeStart/obj/Debug/net6.0/ProgChallengeStart.GeneratedMSBuildEditorConfig.editorconfig
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/ProgChallengeStart/obj/Debug/net6.0/ProgChallengeStart.AssemblyInfoInputs.cache
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/ProgChallengeStart/obj/Debug/net6.0/ProgChallengeStart.AssemblyInfo.cs
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/ProgChallengeStart/obj/Debug/net6.0/ProgChallengeStart.csproj.CoreCompileInputs.cache
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/ProgChallengeStart/obj/Debug/net6.0/ProgChallengeStart.dll
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/ProgChallengeStart/obj/Debug/net6.0/refint/ProgChallengeStart.dll
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/ProgChallengeStart/obj/Debug/net6.0/ProgChallengeStart.pdb
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/ProgChallengeStart/obj/Debug/net6.0/ProgChallengeStart.genruntimeconfig.cache
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Strings/ProgChallengeStart/obj/Debug/net6.0/ref/ProgChallengeStart.dll
