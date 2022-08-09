@@ -1,0 +1,15 @@
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/WhileLoops/obj/Debug/net6.0/WhileLoops.csproj.AssemblyReference.cache
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/WhileLoops/obj/Debug/net6.0/WhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/WhileLoops/obj/Debug/net6.0/WhileLoops.AssemblyInfoInputs.cache
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/WhileLoops/obj/Debug/net6.0/WhileLoops.AssemblyInfo.cs
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/WhileLoops/obj/Debug/net6.0/WhileLoops.csproj.CoreCompileInputs.cache
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/WhileLoops/bin/Debug/net6.0/WhileLoops
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/WhileLoops/bin/Debug/net6.0/WhileLoops.deps.json
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/WhileLoops/bin/Debug/net6.0/WhileLoops.runtimeconfig.json
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/WhileLoops/bin/Debug/net6.0/WhileLoops.dll
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/WhileLoops/bin/Debug/net6.0/WhileLoops.pdb
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/WhileLoops/obj/Debug/net6.0/WhileLoops.dll
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/WhileLoops/obj/Debug/net6.0/refint/WhileLoops.dll
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/WhileLoops/obj/Debug/net6.0/WhileLoops.pdb
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/WhileLoops/obj/Debug/net6.0/WhileLoops.genruntimeconfig.cache
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/WhileLoops/obj/Debug/net6.0/ref/WhileLoops.dll
