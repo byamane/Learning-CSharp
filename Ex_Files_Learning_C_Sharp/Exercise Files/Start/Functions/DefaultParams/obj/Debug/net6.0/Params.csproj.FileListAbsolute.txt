@@ -1,0 +1,15 @@
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/DefaultParams/bin/Debug/net6.0/Params
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/DefaultParams/bin/Debug/net6.0/Params.deps.json
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/DefaultParams/bin/Debug/net6.0/Params.runtimeconfig.json
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/DefaultParams/bin/Debug/net6.0/Params.dll
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/DefaultParams/bin/Debug/net6.0/Params.pdb
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/DefaultParams/obj/Debug/net6.0/Params.csproj.AssemblyReference.cache
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/DefaultParams/obj/Debug/net6.0/Params.GeneratedMSBuildEditorConfig.editorconfig
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/DefaultParams/obj/Debug/net6.0/Params.AssemblyInfoInputs.cache
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/DefaultParams/obj/Debug/net6.0/Params.AssemblyInfo.cs
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/DefaultParams/obj/Debug/net6.0/Params.csproj.CoreCompileInputs.cache
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/DefaultParams/obj/Debug/net6.0/Params.dll
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/DefaultParams/obj/Debug/net6.0/refint/Params.dll
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/DefaultParams/obj/Debug/net6.0/Params.pdb
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/DefaultParams/obj/Debug/net6.0/Params.genruntimeconfig.cache
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/DefaultParams/obj/Debug/net6.0/ref/Params.dll
