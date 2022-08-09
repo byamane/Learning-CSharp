@@ -1,0 +1,15 @@
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/RefAndOutParams/bin/Debug/net6.0/RefAndOut
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/RefAndOutParams/bin/Debug/net6.0/RefAndOut.deps.json
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/RefAndOutParams/bin/Debug/net6.0/RefAndOut.runtimeconfig.json
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/RefAndOutParams/bin/Debug/net6.0/RefAndOut.dll
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/RefAndOutParams/bin/Debug/net6.0/RefAndOut.pdb
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/RefAndOutParams/obj/Debug/net6.0/RefAndOut.csproj.AssemblyReference.cache
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/RefAndOutParams/obj/Debug/net6.0/RefAndOut.GeneratedMSBuildEditorConfig.editorconfig
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/RefAndOutParams/obj/Debug/net6.0/RefAndOut.AssemblyInfoInputs.cache
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/RefAndOutParams/obj/Debug/net6.0/RefAndOut.AssemblyInfo.cs
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/RefAndOutParams/obj/Debug/net6.0/RefAndOut.csproj.CoreCompileInputs.cache
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/RefAndOutParams/obj/Debug/net6.0/RefAndOut.dll
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/RefAndOutParams/obj/Debug/net6.0/refint/RefAndOut.dll
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/RefAndOutParams/obj/Debug/net6.0/RefAndOut.pdb
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/RefAndOutParams/obj/Debug/net6.0/RefAndOut.genruntimeconfig.cache
+/home/brandon/code/learning/C#/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/RefAndOutParams/obj/Debug/net6.0/ref/RefAndOut.dll
