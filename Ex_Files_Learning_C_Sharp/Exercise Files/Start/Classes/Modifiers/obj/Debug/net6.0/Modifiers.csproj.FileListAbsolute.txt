@@ -1,0 +1,15 @@
+/home/brandon/code/learning/C#/Learning-CSharp/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Classes/Modifiers/bin/Debug/net6.0/Modifiers
+/home/brandon/code/learning/C#/Learning-CSharp/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Classes/Modifiers/bin/Debug/net6.0/Modifiers.deps.json
+/home/brandon/code/learning/C#/Learning-CSharp/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Classes/Modifiers/bin/Debug/net6.0/Modifiers.runtimeconfig.json
+/home/brandon/code/learning/C#/Learning-CSharp/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Classes/Modifiers/bin/Debug/net6.0/Modifiers.dll
+/home/brandon/code/learning/C#/Learning-CSharp/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Classes/Modifiers/bin/Debug/net6.0/Modifiers.pdb
+/home/brandon/code/learning/C#/Learning-CSharp/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Classes/Modifiers/obj/Debug/net6.0/Modifiers.csproj.AssemblyReference.cache
+/home/brandon/code/learning/C#/Learning-CSharp/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Classes/Modifiers/obj/Debug/net6.0/Modifiers.GeneratedMSBuildEditorConfig.editorconfig
+/home/brandon/code/learning/C#/Learning-CSharp/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Classes/Modifiers/obj/Debug/net6.0/Modifiers.AssemblyInfoInputs.cache
+/home/brandon/code/learning/C#/Learning-CSharp/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Classes/Modifiers/obj/Debug/net6.0/Modifiers.AssemblyInfo.cs
+/home/brandon/code/learning/C#/Learning-CSharp/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Classes/Modifiers/obj/Debug/net6.0/Modifiers.csproj.CoreCompileInputs.cache
+/home/brandon/code/learning/C#/Learning-CSharp/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Classes/Modifiers/obj/Debug/net6.0/Modifiers.dll
+/home/brandon/code/learning/C#/Learning-CSharp/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Classes/Modifiers/obj/Debug/net6.0/refint/Modifiers.dll
+/home/brandon/code/learning/C#/Learning-CSharp/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Classes/Modifiers/obj/Debug/net6.0/Modifiers.pdb
+/home/brandon/code/learning/C#/Learning-CSharp/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Classes/Modifiers/obj/Debug/net6.0/Modifiers.genruntimeconfig.cache
+/home/brandon/code/learning/C#/Learning-CSharp/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Classes/Modifiers/obj/Debug/net6.0/ref/Modifiers.dll
